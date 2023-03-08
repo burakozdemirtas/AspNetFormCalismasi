@@ -1,0 +1,270 @@
+﻿@model Kullanici
+@{
+    Layout = null;
+}
+
+<style>
+    .hide {
+        display: none;
+    }
+</style>
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+
+
+<div class="container-fluid" style="background-color:#336699; margin:0px; padding:0px;">
+    <div class="container " style="background-color:white; padding:0px; border-radius:10px;">
+        @*Form üstündeki mavi kısım başlangıcı*@
+        <div style="background-color:#6699CC; height:60px; ">
+        </div>
+        @*Form üstündeki mavi kısım bitişi*@
+
+        <div class="mt-3 p-2 text-center" style=" border-top:1px solid gray; border-bottom:1px solid gray; ">
+            <h3>IISEC 2022 Register Form</h3>
+            <p>IISEC 2022 Electronic Participation</p>
+        </div>
+
+        <form style="padding:15px;" method="post">
+            @*AD KISMI*@
+            <div class="form-group">
+                <label for="Ad"><b>Name / Ad *</b></label>
+                <input type="text" class="form-control" asp-for="Ad" required>
+            </div>
+
+            @*SOYAD KISMI*@
+            <div class="form-group">
+                <label for="soyad"><b>Last Name / Soyad *</b></label>
+                <input type="text" class="form-control" asp-for="Soyad" required>
+            </div>
+
+            @*KURUM KISMI*@
+            <div class="form-group">
+                <label for="kurum"><b>Institution / Kurum *</b></label>
+                <input type="text" class="form-control" asp-for="Kurum" required>
+            </div>
+
+            @*EMAİL KISMI*@
+            <div class="form-group">
+                <label for="email"><b>E-mail / E-posta *</b></label>
+                <input type="email" class="form-control" asp-for="Eposta" required>
+            </div>
+
+            @*TELEFON NUMARASI KISMI*@
+            <div class="form-group">
+                <label for="telefon"><b>Phone Number / Telefon numarası *</b></label>
+                <input type="tel" class="form-control" asp-for="Telefon" required>
+            </div>
+
+            @*CURRENT POSİTİON / UNVAN KISMI BAŞLANGIÇ*@
+            <div class="form-check">
+                <label for="unvan">
+                    <b>Current Position / Unvan *</b>
+                </label><br />
+
+                @*<input class="form-check-input" type="radio" name="unvan" id="value1" value="1" checked />
+                    <label class="form-check-label" for="value1">
+                    Ph. D. (Dr.)
+                    </label> <br />*@
+
+                <input class="form-check-input" type="radio" name="Unvan" id="value2" value="1" required />
+                
+                <label class="form-check-label" for="value2">
+                    Assistant Professor (Dr. Öğr. Üyesi)
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="Unvan" id="value3" value="2" required />
+                <label class="form-check-label" for="value3">
+                    Associate Professor (Doç. Dr.)
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="Unvan" id="value4" value="3" required />
+                <label class="form-check-label" for="value4">
+                    Professor (Prof. Dr.)
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="Unvan" id="value5" value="4" required />
+                <label class="form-check-label" for="value5">
+                    Expert (Uzman) / Student (Öğrenci) / Other (Diğer)
+                </label> <br />
+
+            </div>
+            @*CURRENT POSİTİON / UNVAN KISMI BİTİŞ*@
+
+
+
+            @*Participation / Katılım biçimi * BAŞLANGIÇ*@
+            <div class="form-check mt-3">
+                <label for="KatilimBicimi">
+                    <b>Participation / Katılım biçimi *</b>
+                </label><br />
+
+                <input class="form-check-input" type="radio" name="KatilimBicimi" id="KatilimBicimi" value="2" onclick="show2();" required />
+                <label class="form-check-label" for="katilim_bicimi">
+                    Have Paper / Bildiri ile
+                </label> <br />
+                <div id="div1" class="hide mt-3">
+                    <label class="form-check-label" for="ad">
+                        <b>Bildiri ID / Paper ID</b>
+                    </label> <br />
+                    <input type="text" class="form-control col-4" id="KatilimBicimi" name="KatilimBicimi" maxlength="255" style="border:2px solid black;" required>
+
+
+
+                </div>
+            </div>
+            @*Participation / Katılım biçimi * BİTİŞ*@
+
+            @*Type of Participation/ Katılım türü * BAŞLANGIÇ*@
+            <div class="form-check mt-3">
+                <label for="katilim_turu">
+                    <b>Type of Participation/ Katılım türü *</b>
+                </label><br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru1" value="1" id="KatilimTuru1" required />
+                <label class="form-check-label" for="KatilimTuru4">
+                    IEEE Member
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru1" value="2" id="KatilimTuru2" required />
+                <label class="form-check-label" for="KatilimTuru4">
+                    Non-IEEE Member
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru1" value="3" id="KatilimTuru3" required />
+                <label class="form-check-label" for="KatilimTuru4">
+                    IEEE Student Member
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru1" value="4" id="KatilimTuru4" required />
+                <label class="form-check-label" for="KatilimTuru4">
+                    Student Non-IEEE member
+                </label> <br />
+            </div>
+            @*Type of Participation/ Katılım türü * BİTİŞ*@
+
+
+            @*Are you a TBD Member / TBD Üyesi misiniz? * BAŞLANGIÇ*@
+            <div class="form-check mt-3">
+                <label for="TbdUyesi">
+                    <b>Are you a TBD Member / TBD Üyesi misiniz? *</b>
+                </label><br />
+
+                <input class="form-check-input" type="radio" name="TbdUyesi" value="True" required />
+                <label class="form-check-label" for="TbdUyesi">
+                    Yes / Evet
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="TbdUyesi" value="False" required />
+                <label class="form-check-label" for="TbdUyesi">
+                    No / Hayır
+                </label> <br />
+            </div>
+            @*Are you a TBD Member / TBD Üyesi misiniz? * BİTİŞ*@
+
+            @*Participation Type / Katılım Türü BAŞLANGIÇ *@
+            <div class="form-check mt-3">
+                <label for="KatilimTuru2">
+                    <b>Participation Type / Katılım Türü</b>
+                </label><br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru2" value="1" />
+                <label class="form-check-label" for="KatilimTuru2">
+                    In Person / Yüz yüze
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru2" value="2" />
+                <label class="form-check-label" for="KatilimTuru2">
+                    Online / Uzaktan
+                </label> <br />
+
+                <input class="form-check-input" type="radio" name="KatilimTuru2" value="3" />
+                <label class="form-check-label" for="KatilimTuru2">
+                    Video Recording / Video Kaydı
+                </label> <br />
+            </div>
+            @*Participation Type / Katılım Türü BİTİŞ *@
+
+            @*Extra Paper / Ekstra Bildiri BAŞLANGIÇ*@
+            <div class="form-group mt-3">
+                <label for="ekstrabildiri"><b>Extra Paper / Ekstra Bildiri</b></label>
+                <input type="number" class="form-control col-2" name="EkstraBilgi" min="0" max="2" value="0" />
+            </div>
+            @*Extra Paper / Ekstra Bildiri BAŞLANGIÇ*@
+
+            @*Note / Not BAŞLANGIÇ*@
+            <div class="form-group mt-3">
+                <label for="Notlar"><b>Note / Not</b></label>
+                <textarea class="form-control col-7" name="Notlar" rows="4" cols="50"></textarea>
+            </div>
+            @*Note / Not BİTİŞ*@
+
+            @*Tarih BAŞLANGIÇ*@
+            @*<div class="form-group mt-3">
+                    <label for="Tarih"><b>Tarih</b></label>
+                    <input type="date" class="form-control col-3" name="Tarih" pattern="\d{2}\.\d{2}\.\d{4}" placeholder="dd.mm.yyyy" required>
+                </div>*@
+            @*Tarih BİTİŞ*@
+
+            @*SUBMİT BUTTON BAŞLANGIÇ*@
+            <button type="submit" name="submit" id="saveForm" class="btn btn-primary">Submit</button>
+            @*SUBMİT BUTTON BİTİŞ*@
+        </form>
+
+
+        @*BANKA BİLGİLERİ BAŞLANGIÇ*@
+        <div class="container mt-4 p-2 col-7" style="border:1px solid gray;">
+            <b>DOLLAR</b> Account information: <br />
+            Account owner: TÜRKİYE BİLİŞİM DERNEĞİ İKTİSADİ İŞLETMESİ<br />
+            IBAN NO: TR44 0006 2000 7100 0009 0906 14 (Dollar)<br />
+            <b>SWIFT code: TGBATRISXXX</b> <br />
+            <br />
+
+            Account number: 710 - 9090614<br />
+            <br />
+            <br />
+
+
+            <b>Turkish Lira</b> Account information: <br />
+            If you want to transfer the registration fee as Turkish Lira, you should convert Dollar into Turkish Lira course.<br />
+            <br />
+            Account owner: TÜRKİYE BİLİŞİM DERNEĞİ İKTİSADİ İŞLETMESİ <br />
+            IBAN NO: TR65 0006 2000 7100 0006 2991 58 (Turkish Lira)<br />
+            <br />
+            Account number: 710 - 6299158<br />
+            <br />
+            <br />
+
+            <b>SWIFT code: TGBATRISXXX</b> <br />
+            <br />
+            <b>Bank Name: GARANTİ BANKASI</b>
+            <br />
+            <b>Credit Card Payment Link will be Released at the end of Registration! (After Submit)</b>
+        </div>
+
+        <div class="text-center mt-3 p-3 " style="opacity:0.8">
+            Generated by Burak ÖZDEMİRTAŞ©
+        </div>
+        @*BANKA BİLGİLERİ BİTİŞ*@
+
+
+
+    </div>
+</div>
+
+
+
+
+
+<script>
+    function show1() {
+        document.getElementById('div1').style.display = 'none';
+    }
+    function show2() {
+        document.getElementById('div1').style.display = 'block';
+    }
+
+
+</script>

@@ -1,0 +1,318 @@
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.exe
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.deps.json
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.json
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfo.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\staticwebassets\denemesql.StaticWebAssets.Manifest.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.input.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.output.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorCoreGenerate.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cs
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CopyComplete
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\denemesql.genruntimeconfig.cache
+C:\Users\Burak\Desktop\aspnetCoreMvc\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.exe
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.deps.json
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.json
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.dev.json
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.AssemblyReference.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfo.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\staticwebassets\denemesql.StaticWebAssets.Manifest.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\staticwebassets\denemesql.StaticWebAssets.xml
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\scopedcss\bundle\denemesql.styles.css
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.input.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.output.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorCoreGenerate.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CopyComplete
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.genruntimeconfig.cache
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\yunus\OneDrive - 2\Masaüstü\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.StaticWebAssets.xml
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.exe
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.deps.json
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.json
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.AssemblyInfo.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorAssemblyInfo.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\staticwebassets\denemesql.StaticWebAssets.Manifest.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.input.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.TagHelpers.output.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorCoreGenerate.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\List.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cache
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.RazorTargetAssemblyInfo.cs
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.Views.pdb
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.csproj.CopyComplete
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.dll
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.pdb
+C:\Users\Burak\Desktop\son\denemesql\denemesql\obj\Debug\netcoreapp3.1\denemesql.genruntimeconfig.cache

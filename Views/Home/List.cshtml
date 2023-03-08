@@ -1,0 +1,45 @@
+﻿@model List<Kullanici>
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<table class="table table-bordered">
+    <tr>
+        <td>#</td>
+        <td>Ad</td>
+        <td>Soyad</td>
+        <td>Kurum</td>
+        <td>E Posta</td>
+        <td>Telefon</td>
+        <td>Ünvan</td>
+        <td>Katılım Biçimi</td>
+        <td>Katılım Türü1</td>
+        <td>TBD Üyesi</td>
+        <td>Katılım Türü2</td>
+        <td>Extra Bilgi</td>
+        <td>Notlar</td>
+       
+        <td>Toplam</td>
+    </tr>
+    @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.KullaniciID</td>
+                    <td>@item.Ad</td>
+                    <td>@item.Soyad</td>
+                    <td>@item.Kurum</td>
+                    <td>@item.Eposta</td>
+                    <td>@item.Telefon</td>
+                    <td>@item.Unvan</td>
+                    <td>@item.KatilimBicimi</td>
+                    <td>@item.KatilimTuru1</td>
+                    <td>@item.TbdUyesi</td>
+                    <td>@item.KatilimTuru2</td>
+                    <td>@item.EkstraBilgi</td>
+                    <td>@item.Notlar</td>
+                    <td>@item.Toplam</td>
+                    <td><a href="Index">Ekle</a></td>
+                    <td><a href="/Home/Delete/@item.KullaniciID">Sil</a></td>
+                </tr>
+            }
+</table>
